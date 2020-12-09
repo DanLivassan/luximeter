@@ -1,2 +1,2 @@
 - Library BH1750: https://blogmasterwalkershop.com.br/arquivos/libs/BH1750-master.zip
-
+- Library TinyGps
